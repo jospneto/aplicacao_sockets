@@ -4,4 +4,4 @@ Neste repositório está algumas aplicações utilizando a Sockets. Sockets é u
 ## Linguagens e ferramentas utilizadas
    
    * Java SE <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   * Eclipse <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
+   * Eclipse
